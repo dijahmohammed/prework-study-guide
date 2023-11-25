@@ -1,6 +1,11 @@
 # prework-study-guide
 ## A study guide for course pre-work.
-
+## Description
+This study guide was created for a couple of reasons:
+- To make note of everything i learnt in this prework to be able to refer back in the future.
+- To help my fellow bootcamp students to do the same.
+- I wanted to challenge myself in a way that would also help to aid future me. 
+- I have a 
 This study guide was created for a couple of reasons:
 - To make note of everything i learnt in this prework to be able to refer back in the future.
 - To help my fellow bootcamp students to do the same.
